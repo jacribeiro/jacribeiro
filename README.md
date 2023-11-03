@@ -17,8 +17,8 @@
 - I am also collaborating with [NIAEFEUP](https://ni.fe.up.pt/) at some of their projects 🎓
 - At the moment I'm looking to learn more about web development, especially JS frameworks 💻
 
-<div align="center"><h2>🛠️ Technologies and languages</h1></div>
-<div align="center">
+<h3>🛠️ Technologies and languages</h3>
+<div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?logo=c&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-%23ED8B00?logoColor=white">
@@ -30,14 +30,14 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Markdown-%23000000?logo=markdown&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Dart-%230175C2?logo=dart&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-%2302569B?logo=flutter&logoColor=white">
-  ![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?logo=laravel&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)
+  <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-%23FF2D20?logo=laravel&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white">  
 </div>
 
 
-### 🔥 GitHub Stats
+<h3 align="center">🔥 GitHub Stats</h3>
 <div id=stats align=center >
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=jacribeiro&theme=codeSTACKr&show_icons=true" alt="Github stats">
