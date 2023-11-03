@@ -26,10 +26,10 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white">
-  ![Static Badge](https://img.shields.io/badge/php-%23777BB4?logo=php&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Markdown-%23000000?logo=markdown&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/dart-%230175C2?logo=dart&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?logo=flutter&logoColor=white)
+  <img alt="Static Badge" src="https://img.shields.io/badge/php-%23777BB4?logo=php&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Markdown-%23000000?logo=markdown&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Dart-%230175C2?logo=dart&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-%2302569B?logo=flutter&logoColor=white">
   ![Static Badge](https://img.shields.io/badge/Laravel-%23FF2D20?logo=laravel&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)
