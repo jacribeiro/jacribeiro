@@ -22,10 +22,10 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?logo=c&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-%23ED8B00?logoColor=white">
-  ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white">
   ![Static Badge](https://img.shields.io/badge/php-%23777BB4?logo=php&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/Markdown-%23000000?logo=markdown&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/dart-%230175C2?logo=dart&logoColor=white)
