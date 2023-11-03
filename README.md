@@ -17,7 +17,7 @@
 - I am also collaborating with [NIAEFEUP](https://ni.fe.up.pt/) at some of their projects 🎓
 - At the moment I'm looking to learn more about web development, especially JS frameworks 💻
 
-### 🛠️ Technologies and languages
+<div align="center"><h2>🛠️ Technologies and languages</h1></div>
 ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-%23136313?logoColor=white)
