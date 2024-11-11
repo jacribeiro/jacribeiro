@@ -1,6 +1,6 @@
 <div id=header align=center>
   <h1>Hi there! ✌</h1>
-  My name is João and I'm currently a 3rd year Computer Engineering BSc student at <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">FEUP</a><br><br>
+  My name is João and I'm a recently graduated Computer Engineering BSc student at <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">FEUP</a><br><br>
   <div id=social>
     <a href="https://www.linkedin.com/in/joao-ribeiro-compsci/">
       <img src="https://img.shields.io/badge/LinkedIn-151BBF?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
