@@ -14,7 +14,6 @@
 
 ### 🙋‍♂️ About me
 - I'm currently working on a simple [note-taking app](https://github.com/jacribeiro/NotesApp) ✏️
-- I am also collaborating with [NIAEFEUP](https://ni.fe.up.pt/) at some of their projects 🎓
 - At the moment I'm looking to learn more about web development, especially JS frameworks 💻
 
 <h3>🛠️ Technologies and languages</h3>
